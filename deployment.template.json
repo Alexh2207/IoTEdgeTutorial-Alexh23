@@ -13,7 +13,7 @@
               "YOUR_CONTAINER_NAME": {
                 "username": "$CONTAINER_REGISTRY_USERNAME",
                 "password": "$CONTAINER_REGISTRY_PASSWORD",
-                "address": "$CONTAINER_SERVER"
+                "address": "$CONTAINER_REGISTRY_SERVER"
               }
             }
           }
